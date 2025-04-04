@@ -1,6 +1,6 @@
 # 🎙️ Python Voice-Controlled Ad Skipper
 
-This project is a simple Python automation tool that listens for a hotword (like **"Ganesha"**) and automatically skips YouTube ads by simulating a mouse click. It's helpful if you're multitasking or away from your keyboard but still want to skip ads without touching anything.
+This project is a simple Python automation tool that listens for a hotword (like **"Alexa"**) and automatically skips YouTube ads by simulating a mouse click. It's helpful if you're multitasking or away from your keyboard but still want to skip ads without touching anything.
 
 ---
 
